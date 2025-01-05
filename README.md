@@ -1,4 +1,5 @@
-# -Created an interactive Power BI dashboard based on Erasmus+ Survey responses. Erasmus-Survey-Power-Bi-Dashboard-Project
+# - Erasmus-Survey-Power-Bi-Dashboard-Project
+Created an interactive Power BI dashboard based on Erasmus+ Survey responses.
 This is a Power Bi end to end project
 Initial commit: Erasmus+ Survey Dashboard
 
